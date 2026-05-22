@@ -20,4 +20,4 @@ Scriptet använder också en funktion och felhantering med try/catch för att vi
 ## Reflektion
 Jag tycker att det har varit intressant att lära mig hur man kan automatisera skapandet av mappar och filer i PowerShell.
 
-Det som varit lite svårt att förstå och som jag har fått fördjupa mig i är try/catch och hur felhantering fungerar när en mapp redan finns. 
+Det som varit lite svårt att förstå och som jag har fått fördjupa mig i är try/catch och hur felhantering fungerar när en mapp redan finns.  
